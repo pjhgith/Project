@@ -10,6 +10,14 @@ public class firstclass {
         System.out.println("edit by local");
         System.out.println("edit by pjhgith");
         System.out.println("edit by pjhgit_local");
+        System.out.println("11111111111111");
+        System.out.println("11111111111111");
+        System.out.println("11111111111111");
+        System.out.println("11111111111111");
+        System.out.println("11111111111111");
+        System.out.println("11111111111111");
+        System.out.println("11111111111111");
+
     }
     public void run(){
         System.out.println("running");
