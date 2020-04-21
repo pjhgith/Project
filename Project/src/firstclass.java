@@ -3,6 +3,7 @@ public class firstclass {
         System.out.println("hello world");
         System.out.println("by calappidae");
         System.out.println("edit by 1");
+        System.out.println("edit by 2");
     }
     public void run(){
         System.out.println("running");
