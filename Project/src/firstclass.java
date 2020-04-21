@@ -5,6 +5,7 @@ public class firstclass {
         System.out.println("edit by 1");
         System.out.println("edit by 2");
         System.out.println("deit by 3");
+        System.out.println("edit by 4");
     }
     public void run(){
         System.out.println("running");
