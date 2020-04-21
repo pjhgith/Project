@@ -4,6 +4,7 @@ public class firstclass {
         System.out.println("by calappidae");
         System.out.println("edit by 1");
         System.out.println("edit by 2");
+        System.out.println("deit by 3");
     }
     public void run(){
         System.out.println("running");
