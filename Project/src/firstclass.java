@@ -23,4 +23,7 @@ public class firstclass {
     public void run(){
         System.out.println("running");
     }
+    public void shap(){
+        System.out.println("shapping");
+    }
 }
