@@ -9,6 +9,7 @@ public class firstclass {
         System.out.println("edit by remote");
         System.out.println("edit by local");
         System.out.println("edit by pjhgith");
+        System.out.println("edit by pjhgit_local");
     }
     public void run(){
         System.out.println("running");
