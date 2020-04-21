@@ -17,9 +17,13 @@ public class firstclass {
         System.out.println("11111111111111");
         System.out.println("11111111111111");
         System.out.println("11111111111111");
+        System.out.println("22222222222222");
 
     }
     public void run(){
         System.out.println("running");
+    }
+    public void shap(){
+        System.out.println("shapping");
     }
 }
